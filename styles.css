@@ -1,0 +1,16 @@
+*{
+    font-family: 'Gentium Plus', serif;
+}
+
+.container {
+    background-color: rgb(212, 236, 251);
+    background-size: contain;
+}
+
+.jumbotron {
+    background-image: url(https://bitesizebio.com/wp-content/uploads/2019/12/bsb-featured-image-30.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
